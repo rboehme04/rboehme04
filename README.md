@@ -4,7 +4,7 @@ I'm Richard. A working student based in Chemnitz, who enjoys learning new things
 
 I'm studying computer science and I really enjoy doing coding. 💻
 
-[Connect with me ✉️](r.boehme04@gmail.com)
+[Connect with me ✉️](mailto:r.boehme04@gmail.com?subject=GitHub%20Anfrage)
 
 ## Currently working with
 
