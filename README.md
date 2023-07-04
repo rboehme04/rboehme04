@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Richard. A working student based in Chemnitz, who enjoys learning new things. 🌱
 
